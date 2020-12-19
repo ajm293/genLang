@@ -1,0 +1,15 @@
+all
+he/she/it
+I
+we
+they
+you
+to
+with
+no
+yes
+and
+from
+for
+of
+in
